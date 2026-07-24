@@ -1,0 +1,4 @@
+pyserial==3.5
+pillow==12.2.0
+sv-ttk==2.6.1
+darkdetect==0.8.0
